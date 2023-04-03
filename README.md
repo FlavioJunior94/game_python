@@ -1,2 +1,3 @@
 # game_python
-O projeto de game em Python consiste em um jogo de cálculo matemático.
+O projeto de game em Python consiste em um jogo de cálculo matemático que oferece diferentes níveis de dificuldade. Ao iniciar a aplicação, o usuário será solicitado a escolher um nível de dificuldade. Após a seleção do nível, o jogo apresentará aleatoriamente um cálculo matemático e pedirá ao jogador que informe o resultado.
+A cada resposta correta, o jogador acumulará um ponto em seu score. Não importa se a resposta estiver certa ou errada, o jogador pode optar por continuar jogando ou encerrar o jogo. O jogo continuará gerando novos cálculos matemáticos aleatoriamente até que o jogador decida encerrar a partida.
